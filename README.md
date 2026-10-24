@@ -23,7 +23,7 @@
 Please follow the instructions below to install the repo and dependencies.
 
 ```bash
-git clone https://github.com/fudan-zvg/Rodyn-SLAM.git
+git clone https://github.com/LogosIntelligenceLab/Rodyn-SLAM.git
 cd Rodyn-SLAM
 ```
 
