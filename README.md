@@ -102,4 +102,4 @@ If you find our code or paper useful for your research, please consider citing:
 Thanks to previous open-sourced repo: [NeRF](https://github.com/bmild/nerf), [RodynRF](https://robust-dynrf.github.io/), [Co-SLAM](https://github.com/HengyiWang/Co-SLAM)
 
 ## Contact
-Contact [Haochen Jiang](jianghc1995@gmail.com) and [Yueming Xu](xuyueming21@m.fudan.edu.cn) for questions, comments and reporting bugs.
+Contact [Haochen Jiang](mailto:jianghc1995@gmail.com) and [Yueming Xu](mailto:xuyueming21@m.fudan.edu.cn) for questions, comments and reporting bugs.
